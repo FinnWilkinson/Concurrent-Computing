@@ -1,5 +1,6 @@
 # Concurrent Computing
 Coursework code for the Concurrent computing unit I took in my 2nd year at the University of Bristol.
+Grade Achieved - 68
 
 Coursework 1 asked us to create a version of the game of life, allocating sections of the image being
 processed to different threads.
